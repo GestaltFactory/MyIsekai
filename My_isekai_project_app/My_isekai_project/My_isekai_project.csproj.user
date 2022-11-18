@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GUI\CombatScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\CreditScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\HeroSelectionScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\MasterTowerScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\OpenWorldCenterScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TitleScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources\Resource.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "My_isekai_lib/1.0.0": {
+        "runtime": {
+          "My_isekai_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "My_isekai_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

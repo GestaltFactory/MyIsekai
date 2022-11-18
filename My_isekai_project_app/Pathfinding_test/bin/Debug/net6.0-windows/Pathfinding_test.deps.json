@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pathfinding_test/1.0.0": {
+        "dependencies": {
+          "My_isekai_lib": "1.0.0"
+        },
+        "runtime": {
+          "Pathfinding_test.dll": {}
+        }
+      },
+      "My_isekai_lib/1.0.0": {
+        "runtime": {
+          "My_isekai_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pathfinding_test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "My_isekai_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

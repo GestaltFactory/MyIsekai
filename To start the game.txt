@@ -1,0 +1,14 @@
+You need VS studio 2022 community 
+open the project from start page
+select folder.
+
+or 
+
+right click on this: My_isekai_project_app.sln
+open it using VS studio 2022 community
+
+or
+
+go to
+Final Project\FinalProject\My_isekai_project_app\My_isekai_project\bin\Debug\net6.0-windows
+click on the .exe file (this should work even VS install i think)
