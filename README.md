@@ -67,3 +67,6 @@ Change starting project to see the pathfinding test based on Dijkstra's algorith
 <p align="center">
   <img src="https://github.com/GestaltFactory/MyIsekai/blob/main/08.PNG" width="35%">
 </p>
+<p align="center">
+  <img src="https://github.com/GestaltFactory/MyIsekai/blob/main/12.PNG" width="35%">
+</p>
